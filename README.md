@@ -12,7 +12,7 @@ O site possui objetivo de explicar sobre o jogo Minecraft, sua criação, inform
 
 # Desenvolvimento:
 
-O projeto foi desenvolvido em grupo para complementar o artigo desenvolvido para o evento Fatec Portas Abertas: Ciência, Tecnologia e Cultura na Praça. Veja os integrantes abaixo:
+O projeto foi desenvolvido em grupo para complementar o nota da disciplina Linguagem de Programação IV. Veja os integrantes abaixo:
 
 - [Kamylle Victoria Santos Bellini](https://github.com/kamyllevictoria)
 - [Kleber Victor Santos Lemes](https://github.com/KleberV10)
