@@ -1,0 +1,283 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-3');
+
+/*menu*/
+header {
+    margin-bottom: 120px;
+    background-color: #838282;    
+}
+
+nav{
+    background-color: black;
+}
+
+.nav-link{
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    margin: 10px;
+    position: relative;
+}
+
+.nav-link:hover{
+    color: #3C8527;
+}
+
+.nav-link::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background-color: #3C8527;
+    visibility: hidden;
+    transition: 0.5s ease-in;
+}
+
+.nav-link:hover::before{
+    width: 100%;
+    visibility: visible;
+}
+
+/*main*/
+main {
+    margin: 15% 0px;
+}
+
+/*footer*/
+.social-media{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.text-social-media{
+    font-family: 'Minecraft', sans-serif;
+}
+.text-social-media:hover{
+    color: #3C8527;
+}
+.text-direitos-autorais{
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+/*classes para textos e formatações de conteudo*/
+.tittle{
+    font-family: 'Minecraft', sans-serif;
+    color: #3C8527;
+    margin-top: 20px;
+}
+
+.tittle:hover{
+    color: black; 
+}
+
+.text{
+    text-align: justify;
+}
+
+.img-principal{
+    height: 700px;
+    width: 500px;
+    position: relative;
+    top: 4px;
+}
+
+.btn-conhecer{
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+    color: white;
+    background-color: #3C8527;
+    font-family: 'Minecraft', sans-serif;
+    font-style: none;
+    cursor: pointer;
+}
+
+a, a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.btn-conhecer:hover{
+    background-color: #79A22C;
+    color: black;
+}
+
+.principal {
+    background-color: rgba(164, 164, 164, 0.3);
+    padding: 30px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 10px;
+}
+
+/*Não pode mudar o padding!!*/
+footer {
+    background-color: rgba(164, 164, 164, 0.3);
+    padding: 30px;
+}
+
+/*Novas alterações, pode mudar tudo kamyllao daqui para baixo, so coloquei pra ver melhor as coisinhas lá na página*/
+.botao-teste {
+    width: 100%;
+    background-color: #3C8527;
+    color: white;
+    font-family: 'Minecraft', sans-serif;
+}
+
+.btn-ler-mais:hover{
+    background-color: #79A22C;
+    color: black;
+
+}
+
+.background-text{
+    background-color: rgba(0, 0, 0, 0.463);
+    margin: 20px;
+    color: white;
+}
+
+.background-text h1{
+    font-family: 'Minecraft', sans-serif;
+    margin: 10px;
+}
+
+.background-text p{
+    margin: 10px;
+    text-align: justify;
+}
+
+.principal-atualizacao{
+    padding: 30px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 10px;
+}
+.at-bg-1{
+    background-color: #ac77bd;
+}
+
+.at-bg-2{
+    background-color: #d6be6a;
+}
+
+.at-bg-3{
+    background-color: #61a986;
+}
+
+.padding-20{
+    padding-top: 20px;
+}
+.margin-50{
+    margin-top: 50px;
+}
+
+.img-at{
+    width: 100px;
+    height: 100px;
+}
+
+.img-rd{
+    height: 250px;
+}
+
+/*Pode mudar*/
+.card {
+    background-color: rgba(164, 164, 164, 0.3);
+    border: none;
+    border-radius: 10px;
+}
+
+.card-item {
+    background-color: #f5ffe3;
+    height: 100%;
+}
+
+.card-item img {
+    padding: 50px;
+}
+
+.card-item .card-body {
+    background-color: #3C8527;
+    color: white;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
+}
+
+.card-item .card-body:hover {
+    background-color: #f5ffe3;
+    color: #3C8527;
+    transition: 0.5s ease-in-out;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    opacity: 1;
+    padding: 50px;
+    margin: 0px;
+    width: 0px;
+    height: 100%;
+}
+
+.carousel-control-prev img{
+    transform: rotate(-180deg);
+}
+
+.card-nome {
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#kamylle {
+    background-color: #93eec2;
+    transition: 0.5s ease-in-out;
+}
+
+#kamylle:hover {
+    background-color: rgb(41, 41, 41);
+    color: #93eec2;
+    transition: 0.5s ease-in-out;
+}
+
+#kleber {
+    background-color: rgb(216, 156, 97);
+    transition: 0.5s ease-in-out;
+}
+
+#kleber:hover {
+    background-color: rgb(41, 41, 41);
+    color: rgb(216, 156, 97);
+    transition: 0.5s ease-in-out;
+}
+
+#nicole {
+    background-color: rgb(252, 231, 137);
+    transition: 0.5s ease-in-out;
+}
+
+#nicole:hover {
+    background-color: rgb(41, 41, 41);
+    color: rgb(252, 231, 137);
+    transition: 0.5s ease-in-out;
+}
+
+#sarah {
+    background-color: #dbdbc3;
+    transition: 0.5s ease-in-out;
+}
+
+#sarah:hover {
+    background-color: rgb(41, 41, 41);
+    color: #dbdbc3;
+    transition: 0.5s ease-in-out;
+}
+
+#nomes {
+    padding: 0px;
+    margin-bottom: 20%;
+}
+
+#nomes .col-6 {
+    padding: 0px;
+}

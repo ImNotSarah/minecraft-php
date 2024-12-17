@@ -1,0 +1,6 @@
+/*Esse css tem coisas responsivas só da tela de atualizações*/
+main .container {
+    margin: 0px;
+    max-width: none;
+    padding: 0px 20px;
+}

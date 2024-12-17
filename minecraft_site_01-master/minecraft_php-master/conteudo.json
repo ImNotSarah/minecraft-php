@@ -1,0 +1,44 @@
+{
+    "imagem":
+    {
+        "img1":"../images/minecraft_sobrevivencia.jpg",
+        "img2":"../images/minecraft_criativo.avif",
+        "img3":"../images/server.webp",
+        "img4":"../images/mods_minecraft.jpg",
+        "img_itemBasico1":"../images/craftingTable.webp",
+        "img_itemBasico2":"../images/fornalha.webp",
+        "img_itemBasico3":"../images/cama.webp",
+        "img_itemBasico4":"../images/espadaFerro.webp",
+        "img_itemBasico5":"../images/escudo.webp",
+        "img_itemBasico6":"../images/pao.webp",
+        "img_itemAtualizacao1":"../images/crafter.png",
+        "img_itemAtualizacao2":"../images/armaduraCachorro.webp",
+        "img_itemAtualizacao3":"../images/ovoGerador.webp",
+        "img_itemAtualizacao4":"../images/ChaveDesafio.webp",
+        "img_itemAtualizacao5":"../images/infestacao.webp",
+        "img_itemAtualizacao6":"../images/varaVortice.webp"
+    },
+    "texto":
+    {
+        "txt1":"Sobrevivência é o modo de jogo de Minecraft em que os jogadores devem coletar recursos, construir estruturas, batalhar contra criaturas, comer, explorar o mundo e se esforçar para se desenvolver e sobreviver.",
+        "txt1_2":"Na Sobrevivência, o jogador tem um inventário, usado para guardar itens, fazer criações básicas e equipar armaduras. Esses itens podem ser combinados em Receitas para criar Ferramentas e outros itens. No Modo Sobrevivência, o jogador pode receber dano pelo ambiente, ou pelas criaturas hostis. O jogador pode chegar a um 'final' no modo Sobrevivência derrotando o Dragão do Fim, mas isso não vai dar um fim à jogatina; irá ser ganho como recompensa um 'troféu' (um Ovo do Dragão), uma grande quantidade de experiência, o Poema do Fim, e desbloqueia pequenos portais para acessar as Ilhas do Fim e um maior para voltar ao Mundo Superior. Outro objetivo comum é desbloquear todas as conquistas (Progressos na Edição Java).",
+        "txt2":"O modo criativo elimina os aspectos de sobrevivência do Minecraft e permite aos jogadores criar e destruir facilmente estruturas e mecanismos com a inclusão de um uso infinito de blocos e voadores.",
+        "txt2_2":"Também muda a música de fundo. No modo criativo, os jogadores não têm barra de saúde ou fome para atrapalhar sua construção (embora ainda seja possível comer). O modo criativo permite que os jogadores destruam todos os blocos instantaneament. O modo criativo dá aos jogadores a capacidade de Voar. Jogadores no modo criativo são incapazes de receber danos. No entanto, ir longe demais no Vazio ainda vai matar o jogador, mas o jogador pode voar ao redor do vazio desde que não desça abaixo de y=-64. Esta é a única maneira de morrer no modo criativo",
+        "txt3":"Os servidores do Minecraft permitem que os jogadores joguem on-line ou através de uma rede local com outras pessoas. Internamente, o jogo executa um servidor para jogos para um jogador, isso foi feito para tornar",
+        "txt3_2":"a experiência de jogo para um jogador consistente com a experiência para vários jogadores e para que as alterações feitas no jogo, como correções de bugs, se apliquem a ambos jogos para um jogador e jogos para vários jogadores Existem vários arquétipos de servidores Minecraft, distinguidos pelos recursos exclusivos de jogo, regras e estruturas sociais que eles implementam. Não existem dois servidores iguais e, frequentemente, a linha entre arquétipos é borrada ou indistinguível. Muitos tipos especiais de servidores dependem do uso de editores de mapas ou do modo criativo para criar mapas personalizados e os software de servidores CraftBukkit para fornecer recursos adicionais.",
+        "txt4":"Modificações (abreviadas como mods) são criações da comunidade do Minecraft com o intuito de adicionar novos conteúdos, funcionalidades e otimizações ao jogo, nos modos um jogador e multijogador.",
+        "txt4_2":"A maioria dos mods adiciona novas mecânicas e conteúdos ao jogo como decorações, itens, biomas, alimentos, criaturas, transportes, entre outros. Outros mods cumprem o papel de otimizar o jogo por meio dos gráficos, a fim de aumentar o desempenho em computadores menos potentes. Mods de servidores ou plugins concedem mais opções e facilidades aos administradores de servidores, enquanto a maioria dos mods para o modo um jogador também funciona no modo multijogador, desde que todos os jogadores na sessão façam uso dele.",
+        "txt_itemBasico1": "Uma mesa de trabalho é um bloco utilitário que dá acesso a todas as receitas de trabalho, incluindo muitas não disponíveis na grade de trabalho do inventário.",
+        "txt_itemBasico2": "Uma fornalha é um bloco usado para fundir blocos e itens, convertendo-os em outros blocos ou itens. Uma fornalha gera em cada iglu.",
+        "txt_itemBasico3": "Uma cama é um bloco que permite que um jogador para durma e redefina o seu ponto de geração dentro de alguns blocos da cama.",
+        "txt_itemBasico4": "Uma espada é uma arma corpo-a-corpo usada principalmente para causar dano a criaturas ou jogadores. As espadas também são úteis para extrair teia de aranha e bambu.",
+        "txt_itemBasico5": "Um escudo é uma ferramenta usada para proteger o jogador contra ataques. Os escudos também podem ser reparados em uma bigorna usando tábuas ou outro escudo.",
+        "txt_itemBasico6": "Pão é um item de comida que pode ser comido pelo jogador. Aldeões de agricultores iniciantes vendem 6 pão por uma esmeralda como parte de seus comércios.",
+        "txt_itemAtualizacao1": "Uma bancada automática, criador ou mesa automática é um bloco de armazenamento de baixa capacidade usado para fabricar itens através de circuitos de redstone.",
+        "txt_itemAtualizacao2": "A armadura para lobo é um item fabricado com escama de tatu que pode ser equipado em lobos para fornecê-los proteção contra danos recebidos.",
+        "txt_itemAtualizacao3": "Ovo gerador (ou invocar) ou ovo de invocação (ou gerar) é um item usado para gerar criaturas diretamente.",
+        "txt_itemAtualizacao4": "A chave do desafio, chave de teste, chave de desafio ou chave de avaliação é um item que pode ser obtido em um gerador do desafio e usado para desbloquear cofres padrão.",
+        "txt_itemAtualizacao5": "Infestação é um efeito de estado que faz com que traças sejam geradas ao redor de uma entidade.",
+        "txt_itemAtualizacao6": "A Vara de Vórtice ou Bastão do brisa (em inglês, Breeze Rod) são itens obtidos de vórtices. Elas podem ser usadas para fabricar projéteis de vento e maças, além de serem um dos componentes necessários para duplicar o enfeite de fluxo."
+    }
+}
